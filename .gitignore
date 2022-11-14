@@ -1,1 +1,4 @@
 node_modules
+
+# content that you should access from S3
+content
